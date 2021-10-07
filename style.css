@@ -55,7 +55,7 @@ a {
 .button-blue:hover 
 {
 	background-color: white;
-	border : 1px;
+	border : solid 1px;
 	border-color: #6B72E1;
 	color : #6B72E1;
 }
@@ -70,6 +70,10 @@ a {
 	padding-right: 10px;
 
 
+}
+.space-bottom
+{
+	padding-bottom: 3%;
 }
 i 
 {
